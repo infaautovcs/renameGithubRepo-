@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Updated Desc for MCT",
+        "description" : "Updated Desc",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-10-08T09:46:08.309Z",
+  "updateTime" : "2025-10-08T09:47:19.654Z",
   "objectRefs" : [ {
     "id" : "5mENKG50UH8k6rrByubtaS",
     "name" : "TMS47W1264001",
