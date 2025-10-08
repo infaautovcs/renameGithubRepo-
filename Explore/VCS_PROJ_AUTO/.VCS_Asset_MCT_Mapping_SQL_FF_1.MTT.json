@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-10-08T16:09:11.639Z",
+  "updateTime" : "2025-10-08T16:09:37.888Z",
   "objectRefs" : [ {
     "id" : "5mENKG50UH8k6rrByubtaS",
     "name" : "TMS47W1264001",
@@ -76,10 +76,7 @@
       "repoInfo" : {
         "repoHandle" : "0120DT17000000000004"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Pod Certification Task: Mapping has a src and a target. ",
         "contentType" : "JSON",
