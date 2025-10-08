@@ -1,6 +1,6 @@
 {
   "name" : "VCS_Asset_MCT_Mapping_SQL_FF_1",
-  "description" : "Updated Desc for MCT",
+  "description" : "Updated Desc",
   "runtimeEnvironmentId" : "@5mENKG50UH8k6rrByubtaS",
   "runtimeEnvironmentName" : "TMS47W1264001",
   "maxLogs" : 10,
@@ -133,5 +133,5 @@
   "allowMaxFieldLength" : false,
   "specialCharacterSupport" : false,
   "midstreamPreview" : false,
-  "vcsExportTime" : "2025-10-08 01:42:30 PDT"
+  "vcsExportTime" : "2025-10-08 01:44:50 PDT"
 }
