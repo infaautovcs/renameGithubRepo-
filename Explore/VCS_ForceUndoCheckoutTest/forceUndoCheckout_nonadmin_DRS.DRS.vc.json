@@ -1,0 +1,26 @@
+{
+  "name" : "forceUndoCheckout_nonadmin_DRS",
+  "maxLogs" : 10,
+  "sourceConnectionId" : "@kR4n9AnQlenbCWpckHBAIu",
+  "sourceConnectionName" : "RP_Sql_Server201",
+  "targetConnectionId" : "@6QAQY2HOySikUDbj2EBWoI",
+  "targetConnectionName" : "FF",
+  "tablePrefix" : "UndoCO_",
+  "verbose" : false,
+  "fullRefresh" : true,
+  "replicateAllObjects" : false,
+  "removeDeleted" : true,
+  "queryAll" : false,
+  "srcShowLabels" : false,
+  "maxRows" : 0,
+  "stopOnError" : true,
+  "replicationObjects" : [
+    "ALC_PRODUCTS"
+  ],
+  "metadataMode" : 0,
+  "bulkApi" : false,
+  "base64BodySize" : 0.0,
+  "bulkApiDBTarget" : false,
+  "srcRuntimeAttrs" : { },
+  "vcsExportTime" : "2025-10-08 02:51:05 PDT"
+}
